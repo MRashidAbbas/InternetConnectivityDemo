@@ -32,7 +32,10 @@ public class MainActivity extends AppCompatActivity
             {
                 if (IsNetAvailable())
                 {
-                    Toast.makeText(context, "Connected", Toast.LENGTH_SHORT).show();
+                    for (int i =0 ; i<10; i++)
+                    {
+                        Toast.makeText(context, "Connected " + i, Toast.LENGTH_SHORT).show();
+                    }
                 }
                 else
                 {
