@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternetConnectivityDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_installed_apps">InstalledApps</string>
+    <string name="title_activity_adb_commands_demo">AdbCommandsDemo</string>
+</resources>
